@@ -8,6 +8,9 @@ public class SpringLoginApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringLoginApplication.class, args);
+		int a = 2423;
+		inb b = a +2 ;
 	}
 
 }
+
