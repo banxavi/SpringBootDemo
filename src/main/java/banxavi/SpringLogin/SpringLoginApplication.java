@@ -10,6 +10,8 @@ public class SpringLoginApplication {
 		SpringApplication.run(SpringLoginApplication.class, args);
 		int a = 2423;
 		inb b = a +2 ;
+		int c = 2;
+		int d = 4;
 	}
 
 }
